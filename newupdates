@@ -1,7 +1,8 @@
-- Loadingscreen modificada
-- Alterada cor da loja de roupa
-- Menus modificados
-- Preço blip do hospital aumentado para 15k
-- Vários scripts atualizados
-- Traduções alteradas
-- Menu de carregar no F3 alterado
+- Optimização no script de trancar/destrancar veículos
+- Optimização no script de colocar objetos da DPR e GNR
+- Novas fotos loading
+- Novo sistema de gestão da empresa ( novas funcionalidades )
+- Corrigido bug blip do hospital
+- Corrigido bug de conseguir comprar coisas com dinheiro negativo
+- Alterada animação de apanha do lixo
+- Alterada animação do /reparar
