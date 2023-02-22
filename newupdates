@@ -6,5 +6,5 @@
 - Corrigido bug de conseguir comprar coisas com dinheiro negativo
 - Alterada animação de apanha do lixo
 - Alterada animação do /reparar
-- /retirarcolete removido ( guarda-se tens colete ou não )
+- /retirarcolete removido ( guarda automaticamente se tens colete ou não )
 - /refem resolvido
