@@ -1,15 +1,8 @@
-- Update script Garagem
-- Nova favela com dominação:
-- Aplicação Empregos mudada para Serviços
-- Removidas aplicação das corridas do telemóvel
-- DPR / DMR / GNR / Bennys e Amatuzzi adicionados a aplicação Serviços no telemóvel
-- Adicionado entrar e sair de serviço a Bennys e GNR!
-- Alterada localização da garagem do hospital!
-- Aumentada quantidade de peças de armas por armas
-- Stock do café aumentado para 100 unidades por produto
-- Adicionado carregar as cavalitas no F3 - Geral - Carregar
-- Corrigido bugs na nova dominação
-- Corrigo bugs de não guardar o colete
+Dominação Favela:
+ + Corrigido bug de dar a todos o dinheiro ( apenas dá a pessoa que iniciar a captura )
+ + Corrigido bug de contar as organizações no servidor
+ + Adicionada obrigação de estar no mínimo 6 jogadores dentro da área para começar a dominar ( já é feito pelo script )
+ + Tempo de dominação subir para 15 min
 
 A trabalhar:
 Novo sistema de corridas
