@@ -1,7 +1,7 @@
 Dominação Favela:
  + Corrigido bug de dar a todos o dinheiro ( apenas dá a pessoa que iniciar a captura )
  + Corrigido bug de contar as organizações no servidor
- + Adicionada obrigação de estar no mínimo 6 jogadores dentro da área para começar a dominar ( já é feito pelo script )
+ + Adicionada obrigação de estar no mínimo 4 jogadores dentro da área para começar a dominar ( já é feito pelo script )
  + Tempo de dominação subir para 15 min
 
 A trabalhar:
