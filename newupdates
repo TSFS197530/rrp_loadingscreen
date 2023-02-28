@@ -1,5 +1,3 @@
-- Script atualizados e optimizados
-- GNR já vai receber os mesmos avisos que a DPR
-- Policia em alerta vermelho até informação contrária, devido a vários tiroteios dirigidos aos mesmos em abordagens de trânsito (vão andar armados e em veículos reforçados) 
-- Bug dos territórios resolvido
-- NPCs policia removidos e drop de armas dos mesmos removidos
+- Para limpar pólvora agora tens de fazer /limparpolvora , deixa de ser automático
+- Modificado Z quando morto
+- Adicionada possibilidade de empurrar o carro ( Tecla E )
