@@ -1,3 +1,4 @@
-- Para limpar pólvora agora tens de fazer /limparpolvora , deixa de ser automático
-- Modificado Z quando morto
-- Adicionada possibilidade de empurrar o carro ( Tecla E )
+- Removido opção de reparar do F3 das organizações
+- Empurrar o carro passa a ser no SHIFT + E
+- Corrigida notificação de contabilizar os membros da organização nos territórios
+- Pequenas modificações de estética no menu de animações
