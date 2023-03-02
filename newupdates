@@ -1,4 +1,5 @@
-- Removido opção de reparar do F3 das organizações
-- Empurrar o carro passa a ser no SHIFT + E
-- Corrigida notificação de contabilizar os membros da organização nos territórios
-- Pequenas modificações de estética no menu de animações
+- Problemas com o menu do boss resolvidos
+- Removida notificação quando se embalar droga para evitar o spamm
+- Problemas do dano dos socos resolvido
+- Script de territórios optimizado
+- Sistema de lavagem modificado ( consuante o valor introduzido o tempo de espera é modificado e adicionada animação/notificação para saber a percentagem da lavagem )
