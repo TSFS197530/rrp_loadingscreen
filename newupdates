@@ -1,6 +1,6 @@
-- Problemas com o menu do boss resolvidos
-- Removida notificação quando se embalar droga para evitar o spamm
-- Problemas do dano dos socos resolvido
-- Script de territórios optimizado
-- Sistema de lavagem modificado ( consoante o valor introduzido o tempo de espera é modificado e adicionada animação/notificação para saber a percentagem da lavagem )
-- Modificações estéticas no inventário
+- Modificadas regras da polícia
+- Modificadas regras dos assaltos
+- Modificadas regras de organizações oficiais
+- MDT removido do F3 para abrir o mesmo, passa a ser a usar o tablet ( tanto para DPR e GNR como DMR )
+- Adicionada opção de policia mandar código por comandos ( /10-20 , /10-32, /10-99 ) - podem criar as próprias binds
+- Salários da DPR e GNR diminuídos
