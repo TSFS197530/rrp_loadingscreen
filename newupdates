@@ -1,6 +1,5 @@
-- Update na versão do GTA do servidor (pederá aparecer bugs em mapas)
-- Modificado distancia do taser
-- Adicionado Tactical e Pumpshotgun a policia
-- Corrigido bug nos Taxistas
-- Adicionada Amatuzzi ao F3 dos serviços
-- Aumentado drop de plástico no lixo
+- Bug da venda de droga corrigido
+- Quantidade de plástico que sai nos contentores aumentada
+- É possível mover a câmara enquanto procura no lixo ou lavagem
+- É possível mover a câmara quando usam bandagem, medikit e colete
+- Optimização no script de territórios e nos rankings só aparecerá organizações que conseguem fazer o mesmo
