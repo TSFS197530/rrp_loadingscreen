@@ -1,5 +1,6 @@
-- Bug da venda de droga corrigido
-- Quantidade de plástico que sai nos contentores aumentada
-- É possível mover a câmara enquanto procura no lixo ou lavagem
-- É possível mover a câmara quando usam bandagem, medikit e colete
-- Optimização no script de territórios e nos rankings só aparecerá organizações que conseguem fazer o mesmo
+- Quando se bebe agua vem garrafa de plástico
+- Modificado peso do latex e borracha
+- Adicionado entrar/sair de serviço Bean Café
+- /reparar corrigido
+- Já não é possível empurrar dentro de veículos
+- Novas comidas
