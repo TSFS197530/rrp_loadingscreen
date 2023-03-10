@@ -1,6 +1,10 @@
-- Quando se bebe agua vem garrafa de plástico
-- Modificado peso do latex e borracha
-- Adicionado entrar/sair de serviço Bean Café
-- /reparar corrigido
-- Já não é possível empurrar dentro de veículos
-- Novas comidas
+- Corrigido mdt da DMR, DPR e GNR
+- Corrigido colocar e retirar veículo DMR
+- Sistema de lavagem corrigido
+- Spot de lavagem alterado
+- Processo de latex de 4 em 4
+- Bug no nitro corrigido
+- Optimização script reports
+- Optimização em vários scripts
+- Optimização script loja de roupa
+- Redbull adicionado as lojas
