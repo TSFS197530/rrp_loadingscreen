@@ -1,5 +1,3 @@
-- Optimização em vários scripts
-- Problema de as vezes não aparecer E para iniciar assaltos resolvido
-- Regras modificadas
-- Ilha adicionada
-- Dominação trocada para ilha
+- Adicionada possibilidade de convidar amigos para a casa
+- Adicionado QR CODE nas casas, na aba de gerir
+- Nas vendas da droga só é possível vender para o emprego que estiver dominado
