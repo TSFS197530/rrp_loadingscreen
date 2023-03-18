@@ -1,20 +1,11 @@
-- Aumentado dinheiro inicial para 150k
-- Tec-9 adicionada ao craft
-- P90 adicionada ao craft
-- Craft de peças de arma diminuído
-- Dano da ak aumentado
-- Craft de pistols adicionado as favelas
-- Craft de armas brancas adicionada aos bairros 
-- Valores do mercado da favela modificados
-- Valores nas lojas modificados
-- Salário civil aumentado para 2000
-- Aumentada quantidade de plástico que sai nos contentores
-- Diminuído tempo de processo da meta
-- Diminuído tempo de processo de latex
-- Adicionado emprego lixeiro que recebe o dobro nos contentores
-- Aumentado salário taxista
-- Adicionada bullpuprifle a DPR e GNR
-- Preçarios favelas alterados
+- Bug de favelas e bairros não conseguirem ver o blip de craft resolvido
+- Bug do lixeiro resolvido
+- Aumentado drop de items nas casas
+- Preçario modificado ( adicionado tec-9 e p90 e outros retificados )
+- Crafts modificados
+- Removido winemaker do centro de empregos ( eram testes e esquecemos nos de remover )
+- Lavagem será modificada de acordo com a votação ( máquina retira 0% e regra mínima de 10% ) 
+- Preço das drogas retificado ( redução proporcional com a lavagem )
 - Aplicação Info no telemóvel corrigida
 - Traduções na garagem retificada
 - Blip na garagem da prisão diminuído a distância
