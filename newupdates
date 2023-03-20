@@ -1,11 +1,7 @@
-- Bug de favelas e bairros não conseguirem ver o blip de craft resolvido
-- Bug do lixeiro resolvido
-- Aumentado drop de items nas casas
-- Preçario modificado ( adicionado tec-9 e p90 e outros retificados )
-- Crafts modificados
-- Removido winemaker do centro de empregos ( eram testes e esquecemos nos de remover )
-- Lavagem será modificada de acordo com a votação ( máquina retira 0% e regra mínima de 10% ) 
-- Preço das drogas retificado ( redução proporcional com a lavagem )
-- Aplicação Info no telemóvel corrigida
-- Traduções na garagem retificada
-- Blip na garagem da prisão diminuído a distância
+- Craft de corpos de pistol dado aos bairros
+- Bug craft de corpos de arma resolvido
+- Preçario corpos de armas modificado
+- Problema do descarregar da Tec-9 e P90 resolvido
+- Problema de comprar barcos e ir para a garagem resolvido
+- Menu de animações trocado temporariamente ( deem feedback nas #votações )
+- Regra modificada
