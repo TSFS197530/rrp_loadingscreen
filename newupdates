@@ -1,7 +1,10 @@
-- Craft de corpos de pistol dado as mafias
-- Bug craft de corpos de arma resolvido
-- Preçario corpos de armas modificado
-- Problema do descarregar da Tec-9 e P90 resolvido
-- Problema de comprar barcos e ir para a garagem resolvido
-- Menu de animações trocado temporariamente ( deem feedback nas #votações )
-- Regra modificada
+- Adicionadas casas para as favelas
+- Adicionado /cp 
+- Adicionada reciclagem
+- Adicionado novo tablet de corridas com elo /corridas
+- Acetonas e Baterias passam a ser vendidas na loja Weed
+- Telemóveis e rádios partem se na água
+- Optimização em alguns scripts
+
+- Policia passou a aviso amarelo
+- Mudança de regras
