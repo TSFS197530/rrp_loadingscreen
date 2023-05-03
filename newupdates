@@ -1,20 +1,15 @@
-- Modificado esteticamente o Menu do F3
-- Bug de não conseguir dar revive no npc do hospital resolvido ( na tela da morte mostra la uma opção )
-- Adicionada Farmácia
-- Adicionada rádio aos armamentos das policias
-- Adicionado apreendidos as policias
-- Corrigido MDT e funcional
-- Aumentado kilos dos baús das organizações
-- Corrigido bug nos baús das organizações
-- Na criação de personagem já é possivel colocar o dia 31
-- Alguma traduções modificadas
-- Modificados assaltos na scoreboard para estar de acordo com as regras
-- Alterados spots dos crafts ( estavam na praça )
-- Corrigido bug de policias não conseguirem colocar objetos
-- Adicionadas imagens a items em falta
-- Adicionado cruise control no .
-- Alterado pesos dos items
-- Alterados preços de alguns items
-- Alterada modificação da loja ilegal
-- Alterado visual do menu de costumização dos mecânicos
-- Atualização do txAdmin para optimização
+- Ativado puremode no servidor
+- Alterados preços dos veículos
+- Corrigido bug nas bombas de gasolina e jerry can
+- Adicionada possibilidade de oficinas conseguirem comprar kit de reparação
+- Adicionada bennys e norauto a possibilidade de passar faturas
+- Corrigido erro no MDT
+- Atualizado script das casas
+- Alterados preços das ammunation
+- Corrigidos alguns erros
+- Modificado estética menu das faturas
+- Alterado empregos no telemóvel
+- Modificado preço da pele no grossista
+- Modificado preçario
+- Modificado craft todos e tempos ( relacionados a armas )
+- Modificado valor de venda das drogas ( não estava o correto )
