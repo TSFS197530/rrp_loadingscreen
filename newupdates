@@ -1,15 +1,6 @@
-- Ativado puremode no servidor
-- Alterados preços dos veículos
-- Corrigido bug nas bombas de gasolina e jerry can
-- Adicionada possibilidade de oficinas conseguirem comprar kit de reparação
-- Adicionada bennys e norauto a possibilidade de passar faturas
-- Corrigido erro no MDT
-- Atualizado script das casas
-- Alterados preços das ammunation
-- Corrigidos alguns erros
-- Modificado estética menu das faturas
-- Alterado empregos no telemóvel
-- Modificado preço da pele no grossista
-- Modificado preçario
-- Modificado craft todos e tempos ( relacionados a armas )
-- Modificado valor de venda das drogas ( não estava o correto )
+- Concessionária Empresarial 100% funcional e preços mais baratos
+- Bugs com o MDT corrigidos
+- Organizações ilegais já têm 4 carros
+- Modificado preço dos anúncios das páginas amarelas, valet e impostos dos veículos ( tudo diminuído)
+- Modificado preço da pele ( diminuído )
+- Modificado peso das drogas ( diminuído, estava muito pesado )
