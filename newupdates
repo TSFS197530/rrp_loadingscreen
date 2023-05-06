@@ -1,10 +1,14 @@
-- Removido /reparar
-- Alterada percentagem de perder a balança ( quase nunca perdem )
-- Alterado preço das drogas
-- Modificado processo da cocaína
-- Corrigido craft da Mini-Ak
-- Modificado preçario
-- Modificado preços Loja da Weed
-- Modificado preços na venda de minérios da mina
-- Modificado preços Grossista
-- Radares de velocidade agora passam faturas em vez de descontar do banco
+- Adicionado pdw, mini-ak e minismg nas costas
+- Modificado coletes ( já conseguem dar stack )
+- Modificado pesos de vários items
+- Adicionada cozinha a PSP
+- Modificado preço das modificações
+- Adicionada imagem a Luz UV
+- Modificação script da pesca
+- UWU a 100%
+- Stand Motoclubs a 100%
+- Corrigido bug nos assaltos a casas
+- Corrigido bug no script da pesca
+- Update no radar da policia
+- Adicionado componentes para armas ao Motoclubs
+- Traduzido produtos do uwu e derivadas - Feito por [MOD] SKAGE
