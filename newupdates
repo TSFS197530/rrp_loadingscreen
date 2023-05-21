@@ -1,4 +1,10 @@
-- Corrigido bug na construção civil e outros empregos
-- Alterado valor de missões ilegais de npcs
-- Modificação em alguns scripts
-- Modificado/Alterado Anti-cheat por completo 
+- Adicionado stand usados
+- Corrigido bug quando se renasce no hospital e não remover items
+- Adicionado UWU aos serviços do telemóvel
+- Adicionado códigos PSP e GNR ( 10-20 / 10-32 / 10-99 )
+- Removido emprego de Camionista
+- Adicionado Ginásio e sistema de skills
+- Atualização do sistema geral do servidor
+- Corrigido bug no script de tortura
+- Corrigido anuncio dos SOA
+- Corrigido portões dos Kumi
