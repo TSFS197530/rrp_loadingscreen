@@ -1,10 +1,11 @@
-- Adicionado stand usados
-- Corrigido bug quando se renasce no hospital e não remover items
-- Adicionado UWU aos serviços do telemóvel
-- Adicionado códigos PSP e GNR ( 10-20 / 10-32 / 10-99 )
-- Removido emprego de Camionista
-- Adicionado Ginásio e sistema de skills
-- Atualização do sistema geral do servidor
-- Corrigido bug no script de tortura
-- Corrigido anuncio dos SOA
-- Corrigido portões dos Kumi
+- Alterado rendimento dos trabalho do centro de emprego
+- Lojas agora com valor fixo dos produtos
+- Aumentado valor das drogas significativamente
+- Diminuido materiais do craft das armas significativamente
+- Aumentado quantidade de material que dá na mina
+- Alterado valor das rodas nos mecânicos
+- Adicionado sistema de Animais
+- Adicionado Menu de Animais no F3
+- Nova coleção UWU Café
+- Atualização no script das garagens ( já é possivel dar a chave a outros nos carros das empresas )
+- Modificações em menus de administração
