@@ -1,12 +1,7 @@
-- Alterado rendimento dos trabalho do centro de emprego
-- Lojas agora com valor fixo dos produtos
-- Aumentado valor das drogas significativamente
-- Diminuido materiais do craft das armas significativamente
-- Aumentado quantidade de material que dá na mina
-- Alterado valor das rodas nos mecânicos
-- Adicionado sistema de Animais
-- Adicionado Menu de Animais no F3
-- Nova coleção UWU Café
-- Atualização no script das garagens ( já é possivel dar a chave a outros nos carros das empresas )
-- Modificações em menus de administração
-- Removido dv automático dos carros
+- Atualizado preçario ( referente a balas, coletes e pele )
+- Modificado craft dos coletes
+- Modificado tempo de perda da skill do ginásio para 20 minutos
+- Adicionado tacos, facas, garrafas de vidro e soco inglês para vende no bot ilegal
+- Reduzido preço dos radares
+- Nos assaltos atm a polícia não é obrigada a vir
+- Já é possível usar bandagem e andar
