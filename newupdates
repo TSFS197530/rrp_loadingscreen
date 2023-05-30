@@ -1,7 +1,6 @@
-- Atualizado preçario ( referente a balas, coletes e pele )
-- Modificado craft dos coletes
-- Modificado tempo de perda da skill do ginásio para 20 minutos
-- Adicionado tacos, facas, garrafas de vidro e soco inglês para vende no bot ilegal
-- Reduzido preço dos radares
-- Nos assaltos atm a polícia não é obrigada a vir
-- Alterado localização do craft dos coletes
+- Adicionado BestBuds
+- Adicionado Reboque a Bennys
+- Corrigido bug da GNR não contar para os assaltos
+- Corrigido assaltos e adicionados novos ( deixam de estar marcados no mapa )
+- Corrigida roupa comunitário dos homens
+- Adicionada Merryweather
