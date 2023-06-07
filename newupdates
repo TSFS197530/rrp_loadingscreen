@@ -1,10 +1,27 @@
-- Corrigido bug nos atms
-- Radar retira dinheiro do banco em vez de faturas
-- Adicionado blip público de lavagem
-- Reduzido tempo de processo da metanfetamína e outras drogas
-- Aumentado valor dos empregos legais e ilegais
-- Corrigido bug do stand de usados
-- Alterada roupa de prisão
-- Alterado localização do comunitário
-- Adicionado contrato de veículos ( podem colocar motas e afins na empresa )
-- Garagens da praça deixa de ser safe-zone
+- Adicionado Plasma Game
+- Adicionado sistema de âncora no F3 - Veículo
+- Adicionado sistema de documentos para MP, GNR, PSP e INEM ( /documentos ou no F3 )
+- Adicionado blip de música ao UWU Café
+- Adicionados cargos a SOA
+- Adicionado colete SOA
+- Adicionada garagem no Ministério Público
+- Adicionada nova garagem de barcos e novo aluguer de barcos
+- Adicionado botijas de NOS as oficinas
+- Adicionado mais locais de aluguer de bicicletas
+- Adicionada nova garagem
+- Adicionado sistema de impressão digital para a polícia ( PSP e GNR )
+- Alterado canal #cores
+- Corrigida aplicação da empresa para as organizações
+- Corrigido erro no dispatch
+- Corrigido erro nas garagens
+- Corrigido bug no script da loja de animais
+- Corrigido bug no script do ginásio
+- Corrigido erro de awaiting scripts
+- Corrigido bug na loading screen
+- Corrigido bug dos anúncios do BestBuds
+- Modificado #preçario devido as botijas
+- Modificado mapa SOA
+- Atualizados artifacts do servidor
+- Atualizado script das fechaduras, do olho, de interfaces e de aparência
+- Introduzidos handlings de carros importados
+- Plasma Game em testes visto a estar a puxar muito pelo servidor
