@@ -1,27 +1,17 @@
-- Adicionado Plasma Game
-- Adicionado sistema de âncora no F3 - Veículo
-- Adicionado sistema de documentos para MP, GNR, PSP e INEM ( /documentos ou no F3 )
-- Adicionado blip de música ao UWU Café
-- Adicionados cargos a SOA
-- Adicionado colete SOA
-- Adicionada garagem no Ministério Público
-- Adicionada nova garagem de barcos e novo aluguer de barcos
-- Adicionado botijas de NOS as oficinas
-- Adicionado mais locais de aluguer de bicicletas
-- Adicionada nova garagem
-- Adicionado sistema de impressão digital para a polícia ( PSP e GNR )
-- Alterado canal #cores
-- Corrigida aplicação da empresa para as organizações
-- Corrigido erro no dispatch
-- Corrigido erro nas garagens
-- Corrigido bug no script da loja de animais
-- Corrigido bug no script do ginásio
-- Corrigido erro de awaiting scripts
+- Optimização no servidor, principalmente na cidade
+- Optimização a triggers de contagens de players
+- Corrigido bugs de 2 motas que estavam a sobrecarregar e outros
+- Corrigido bug de props de so aparecerem para a pessoa
+- Corrigido bug no nitro
+- Corrigido bug de nos assaltos não contablizarem as policias
+- Corrigido bug nos emotes
 - Corrigido bug na loading screen
-- Corrigido bug dos anúncios do BestBuds
-- Modificado #preçario devido as botijas
-- Modificado mapa SOA
-- Atualizados artifacts do servidor
-- Atualizado script das fechaduras, do olho, de interfaces e de aparência
-- Introduzidos handlings de carros importados
-- Plasma Game em testes visto a estar a puxar muito pelo servidor
+- Adicionado blip de joalharia
+- Alterado blip de heli da gnr
+- Alteradas regras de assaltos
+- Alterado valores da loja ilegal
+- Adicionado items a loja ilegal
+- Corrigidas fotos de alguns items e certas traduções
+- Corrigidos bugs dos assaltos da joalharia ,banco principal e atms
+- Desativado temporariamente assaltos a lojas e bancos ( no decorrer da tarde serão corrigidos )
+- Aumentado valores de recompensa dos assaltos
