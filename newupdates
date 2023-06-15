@@ -1,17 +1,9 @@
-- Optimização no servidor, principalmente na cidade
-- Optimização a triggers de contagens de players
-- Corrigido bugs de 2 motas que estavam a sobrecarregar e outros
-- Corrigido bug de props de so aparecerem para a pessoa
-- Corrigido bug no nitro
-- Corrigido bug de nos assaltos não contablizarem as policias
-- Corrigido bug nos emotes
-- Corrigido bug na loading screen
-- Adicionado blip de joalharia
-- Alterado blip de heli da gnr
-- Alteradas regras de assaltos
-- Alterado valores da loja ilegal
-- Adicionado items a loja ilegal
-- Corrigidas fotos de alguns items e certas traduções
-- Corrigidos bugs dos assaltos da joalharia ,banco principal e atms
-- Desativado temporariamente assaltos a lojas e bancos ( no decorrer da tarde serão corrigidos )
-- Aumentado valores de recompensa dos assaltos
+- Diminuído craft de armas
+- Diminuído valor do ⁠💲┋preçário  relativamente a armas e aumentado nas drogas
+- Aumentado valor das drogas 
+- Diminuido valor dos acessórios das armas
+- Adicionados blips Jornal
+- Adicionado BugerShot e blips
+- Trocado Cosa nostra para Peaky Blinders
+- Adicionado mapa Peaky Blinders e blips
+- Removido mapa Cosa Nostra
