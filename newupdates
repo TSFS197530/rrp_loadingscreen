@@ -1,9 +1,11 @@
-- Motas motoclubs optimizadas
-- Carros INEM optimizados
-- Carros GNR optimizados
-- Carros PSP optimizados
-- Camião Bennys e Norauto optimizado
-- Carros Norauto optimizados
-- Carros Stand VIP optimizados
-- Carros de VIPS e Doações optimizados
-- Adicionado sistema de seguros, selos e homologações
+- Adicionado anúncios BurgerShot
+- Adicionado no F10 BurgerShot
+- Adicionado estúdio de fotos
+- Adicionado no F3 - Veículo sistema dos selos e seguro
+- Adicionado sistema de selo, seguro e homologações ao mdt
+- Adicionadas roupas ao INEM
+- Corrigido bug das lockpicks para os carros
+- Corrigido bug no nitro
+- Corrigido bug de INEM não receber chamados
+- Trocado mapa da norauto
+- Removido carros desnecessários
