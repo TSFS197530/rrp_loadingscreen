@@ -1,11 +1,4 @@
-- Adicionado anúncios BurgerShot
-- Adicionado no F10 BurgerShot
-- Adicionado estúdio de fotos
-- Adicionado no F3 - Veículo sistema dos selos e seguro
-- Adicionado sistema de selo, seguro e homologações ao mdt
-- Adicionadas roupas ao INEM
-- Corrigido bug das lockpicks para os carros
-- Corrigido bug no nitro
-- Corrigido bug de INEM não receber chamados
-- Trocado mapa da norauto
-- Removido carros desnecessários
+- Corrigido bug de blips na Norauto
+- Corrigido bug nas comidas do BurgerShot
+- Corrigido bug nas armas das costas
+- Corrigido bug no sistema de INEM
