@@ -1,4 +1,15 @@
-- Corrigido bug de blips na Norauto
-- Corrigido bug nas comidas do BurgerShot
-- Corrigido bug nas armas das costas
-- Corrigido bug no sistema de INEM
+- Corrigido bug na lavagem
+- Corrigido buig no baú das casas
+- Corrigido anúncios Ministério Público
+- Corrigido anúncios Tequilla
+- Corrigido bug de quando batem com o veículo deixar de ouvir os outros
+- Adicionado ruas para PSP e GNR
+- Adicionado um mapa
+- Adicionado ministério Público no F10
+- Adicionado menu do BurgerShot
+- Adicionado anúncios Jornal
+- Modificado preço da ligadura
+- Modificado baúdas casas para 500kg
+- Removido anúncios automático no chat
+- Recodificada mina e optimização da mesma
+
