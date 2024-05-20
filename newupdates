@@ -1,9 +1,5 @@
-- Corrigido bug dos mecânicos das modificações
-- Corrigido avisos falsos do plasma do dispatch da polícia
-- Corrigido traduções burgershot
-- Corrigido missão do eletricista
-- Desligado script MerryWeather temporariamente
-- Adicionado trancas a carros de npc ( 80% dos carros )
-- Removido dano do machado
-- Removido corunha da arma do plasma Game
-- Diminuido preço das comidas
+ - Adicionado comando /fixradio
+ - Adicionado/Ativado Ministério Público
+ - Corrigido carro spawnado no meio do ar num estacionamento
+ - Removido Corunhadas ( desativado corunhadas quando perto de alguem )
+ - Adicionado ID nas informações do F3
