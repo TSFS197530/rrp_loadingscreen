@@ -1,6 +1,8 @@
- - Adicionado comando /fixradio
- - Adicionado/Ativado Ministério Público
- - Corrigido carro spawnado no meio do ar num estacionamento
- - Removido Corunhadas ( desativado corunhadas quando perto de alguem )
- - Adicionado ID nas informações do F3
- - Resolvido bug nas drogas
+- Corrigido bug do desaparecimento do mapa
+- Corrigido revive do hospital não dar comida nem bebida
+- Carrinhas do Stand tem agora mais stock disponível
+- Props da policia removida temporariamente
+- Resolvido bug da animação do porta malas
+- Ajustado permissões do armário da BCSO
+- Corrigido bug do cinto da mota
+- Motoclubs conseguem agora arranjar motos pelo F3
