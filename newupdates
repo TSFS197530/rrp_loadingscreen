@@ -1,8 +1,23 @@
-- Corrigido bug do desaparecimento do mapa
-- Corrigido revive do hospital não dar comida nem bebida
-- Carrinhas do Stand tem agora mais stock disponível
-- Props da policia removida temporariamente
-- Resolvido bug da animação do porta malas
-- Ajustado permissões do armário da BCSO
-- Corrigido bug do cinto da mota
-- Motoclubs conseguem agora arranjar motos pelo F3
+- Removido stock do stand
+- Removidas cartas pearls ( temporário )
+- Removida loja de roupa nº14
+- Removido um local da missão ilegal que coincidia com spot
+- Modificado sistema de lavagem ( maior quantidade )
+- Modificado RRs
+- Modificado menu de boss para conseguirem ver pessoas Fora de serviço
+- Modificado identificador da policia para verem faturas ( Identificador do F3 )
+- Modificado xp necessário para upgrades do desmantelamento de carros
+- Modificado o HUD
+- Modificadas multas no MDT
+- Resolvido bug da vida do jardineiro
+- Resolvido bug porta-luvas
+- Corrigido bugs nos SOA
+- Corrigido Cabelo do F3
+- Corrigido bugs no mapa das barbearias
+- Atualizados requisitos de organizações
+- Atualizado Artefactos do Servidor
+- Adicionado Matrícula Falsa ( loja ilegal )
+- Adicionado novamente Merryweather
+- Adicionado no F10 Merryweather ( necessita de policia )
+- Adicionadas novas roupas ao EMS
+- Agora quando se passa fatura é obrigatório colocar data!
