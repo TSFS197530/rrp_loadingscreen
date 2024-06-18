@@ -1,23 +1,13 @@
-- Removido stock do stand
-- Removidas cartas pearls ( temporário )
-- Removida loja de roupa nº14
-- Removido um local da missão ilegal que coincidia com spot
-- Modificado sistema de lavagem ( maior quantidade )
-- Modificado RRs
-- Modificado menu de boss para conseguirem ver pessoas Fora de serviço
-- Modificado identificador da policia para verem faturas ( Identificador do F3 )
-- Modificado xp necessário para upgrades do desmantelamento de carros
-- Modificado o HUD
-- Modificadas multas no MDT
-- Resolvido bug da vida do jardineiro
-- Resolvido bug porta-luvas
-- Corrigido bugs nos SOA
-- Corrigido Cabelo do F3
-- Corrigido bugs no mapa das barbearias
-- Atualizados requisitos de organizações
-- Atualizado Artefactos do Servidor
-- Adicionado Matrícula Falsa ( loja ilegal )
-- Adicionado novamente Merryweather
-- Adicionado no F10 Merryweather ( necessita de policia )
-- Adicionadas novas roupas ao EMS
-- Agora quando se passa fatura é obrigatório colocar data!
+- Adicionado NPC´s novamente
+- Retiradas Props do mapa
+- Resolvido Bugs no「🍔」Burgershot // Bean Machine
+- Resolvido Crash´s na zona das docas/autoestrada
+- Resolvido Bug do Revistar
+- Resolvido OFFDUTY do「🍃」Best Buds
+- Resolvido Bugs na loja dos animais
+- Resolvido Bugs nos Comservs
+- Resolvido Bug de desligar motor do carro
+- Alterado Script da ilha (Mapa)
+- Desabilitadas matriculas falsas (temporariamente)
+- Tablet das corridas compra-se agora na loja ilegal
+-「🍃」Best Buds funciona agora como um bar
