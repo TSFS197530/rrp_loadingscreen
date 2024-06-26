@@ -1,13 +1,4 @@
-- Adicionado NPC´s novamente
-- Retiradas Props do mapa
-- Resolvido Bugs no「🍔」Burgershot // Bean Machine
-- Resolvido Crash´s na zona das docas/autoestrada
-- Resolvido Bug do Revistar
-- Resolvido OFFDUTY do「🍃」Best Buds
-- Resolvido Bugs na loja dos animais
-- Resolvido Bugs nos Comservs
-- Resolvido Bug de desligar motor do carro
-- Alterado Script da ilha (Mapa)
-- Desabilitadas matriculas falsas (temporariamente)
-- Tablet das corridas compra-se agora na loja ilegal
--「🍃」Best Buds funciona agora como um bar
+- Deslocados items para o desmanche para loja ilegal
+- Modificada loja ilegal para dinheiro sujo
+- Atualização de vários scripts
+- Optimização de vários scripts
